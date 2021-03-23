@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533190851827",
+    "firebase_url": "https://qboy-a5010.firebaseio.com",
+    "project_id": "qboy-a5010",
+    "storage_bucket": "qboy-a5010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533190851827:android:7de60f6bf4550f174fcb86",
+        "android_client_info": {
+          "package_name": "io.ionic.qboyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533190851827-3igf1lceo64ev7gbiu20lhf4elbqisp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadHS6WJ06mq3jcWuWsS8I03TkGrtbqHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533190851827-3igf1lceo64ev7gbiu20lhf4elbqisp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
